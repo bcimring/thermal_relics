@@ -1,0 +1,4 @@
+# font
+font.family: sans-serif
+font.sans-serif: DejaVu Sans
+mathtext.fontset: dejavusans
